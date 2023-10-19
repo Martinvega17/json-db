@@ -7,10 +7,10 @@
             "imagen": "https://i.pinimg.com/564x/60/26/b3/6026b3a8775912e87534fcfa0c81b898.jpg",
             "anime": "frieren",
             "banner": "",
-            "evidencia1": "",
-            "evidencia2": "",
-            "evidencia3": "",
-            "evidencia4": ""
+            "evidencia1": "https://github.com/Martinvega17/json-db/blob/main/assets/projects/centinela%20del%20aire/evidencia1.jpeg",
+            "evidencia2": "https://github.com/Martinvega17/json-db/blob/main/assets/projects/centinela%20del%20aire/evidencia2.jpeg",
+            "evidencia3": "https://github.com/Martinvega17/json-db/blob/main/assets/projects/centinela%20del%20aire/evidencia3.jpeg",
+            "evidencia4": "https://github.com/Martinvega17/json-db/blob/main/assets/projects/centinela%20del%20aire/evidencia4.jpeg"
         },
         {
             "id": 2,
